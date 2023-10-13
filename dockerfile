@@ -1,1 +1,1 @@
-FROM SF_testrepo1:9
+FROM SF_testrepo1:8
